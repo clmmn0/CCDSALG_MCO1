@@ -1,4 +1,4 @@
-# CCDSALG_MCO1
+# CCDSALG_MCO1_Sorting
 
 A C-based program that uses different sorting algorithms to sort integers and compares its results. The sorting algorithms used are: Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Heap Sort, and Quick Sort algorithms. 
 
